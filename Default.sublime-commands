@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "SublimeSendToJsonBlob: Paste Selected Text",
+        "command": "send_to_json_blob",
+        "args": {}
+    },
+    {
+        "caption": "SublimeSendToJsobBlob: Paste Selected Text With Custom Name",
+        "command": "send_to_json_blob_prompt",
+        "args": {}
+    }
+]

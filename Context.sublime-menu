@@ -1,0 +1,4 @@
+[
+   { "caption": "Send selection to JsonBlob", "command": "send_to_json_blob" },
+   { "caption": "Send selection to JsonBlob with custom name", "command": "send_to_json_blob_prompt" }
+]

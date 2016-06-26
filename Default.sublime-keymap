@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+alt+y"], "command": "send_to_json_blob"},
+    {"keys": ["ctrl+alt+shift+y"], "command": "send_to_json_blob_prompt"}
+]
