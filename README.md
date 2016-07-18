@@ -1,4 +1,4 @@
-Sublime Text 3 (and 2) SendToPasteBin Plugin
+Sublime Text 3 (and 2) SendToJsonBlob Plugin
 =============
 Sublime Text 3 (and 2) plugin uploads code to JsonBlob.com directly from the editor, with the correct syntax highlighting.
 This only is for json so that json can be formatted correctly
@@ -9,8 +9,7 @@ Use shortcuts or commands in the command prompt (prefix `SendToJsonBlob`).
 
 Shortcuts
 ---------
- * `ctrl+alt+y`: copy the current selection in Pastebin.com. The resulting Url will be copied to your clipboard
- * `ctrl+alt+shift+y`: same as `ctrl+alt+y`, but with a custom name of resulting pasted file
+ * `ctrl+alt+y`: copy the current selection in jsobblob.com. The resulting Url will be copied to your clipboard
 
 Installation
 ------------
